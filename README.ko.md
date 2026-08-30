@@ -119,6 +119,12 @@ Skill은 다음 정보를 확인하지 않도록 명시적으로 제한합니다
 - Token
 - Browser profile
 
+## 후원
+
+Codex Sidecar가 조금이라도 시간을 아껴줬다면, 작은 팁으로 응원해 주세요. ☕
+
+[Ko-fi에서 Codex Sidecar 후원하기](https://ko-fi.com/santamago)
+
 ## 감사의 말
 
 [Codex with ChatGPT (C2C)](https://github.com/XiaoDuoYa/codex-with-chatgpt)에서 아이디어를 얻었습니다.

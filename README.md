@@ -83,6 +83,12 @@ Use C2C when you want ChatGPT to participate in an automated, workspace-aware pl
 
 Codex Sidecar contains instructions only. It has no server, telemetry, credential store, or workspace integration. Its skill explicitly prohibits inspecting conversations, cookies, storage, credentials, tokens, and browser profiles.
 
+## Support
+
+If Codex Sidecar saved you a little time, you can leave a small tip. ☕
+
+[Support Codex Sidecar on Ko-fi](https://ko-fi.com/santamago)
+
 ## Acknowledgements
 
 Inspired by [Codex with ChatGPT (C2C)](https://github.com/XiaoDuoYa/codex-with-chatgpt). No C2C source code is included or copied.

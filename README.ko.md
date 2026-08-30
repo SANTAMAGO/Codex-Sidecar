@@ -1,23 +1,5 @@
 # Codex Sidecar
 
-[English](README.md) | [한국어](README.ko.md)
-
-Codex 옆에 당신의 AI를 두세요.
-
-MCP도 없습니다. 터널도 없습니다. Connector도 없습니다. API Key도 없습니다.
-
-> 귀찮았던 건 복사와 붙여넣기가 아니었습니다.
-> 창을 왔다 갔다 하는 것이었습니다.
-
-Codex Sidecar는 Skill만으로 구성된 아주 작은 Codex Plugin입니다.
-Codex의 기존 in-app Browser에서 ChatGPT를 열고, 이미 열린 탭이 있다면
-가능한 한 그 탭을 재사용합니다. Browser를 화면에 표시한 뒤,
-사용자가 계속 이용할 수 있도록 탭을 열어둡니다.
-
-**Version 0.1.0은 ChatGPT만 지원합니다.**
-현재 `https://chatgpt.com/`을 엽니다.
-다른 AI 웹 앱은 아직 지원하지 않습니다.
-=======
 [English](README.md) | **한국어**
 
 Codex 옆에 AI를 두세요.
@@ -83,7 +65,7 @@ Browser 사용 가능 여부, panel 위치, tab 유지 방식 및 로그인 동�
 
 ## 설치
 
-Codex에서 다음 명령을 사용하여 marketplace를 추가합니다.
+Codex 플러그인 마켓플레이스에서 Codex Sidecar를 설치합니다. 먼저 marketplace를 추가합니다.
 
 ```bash
 codex plugin marketplace add SANTAMAGO/Codex-Sidecar

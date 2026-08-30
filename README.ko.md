@@ -1,6 +1,5 @@
 # Codex Sidecar
 
-<<<<<<< HEAD
 [English](README.md) | [한국어](README.ko.md)
 
 Codex 옆에 당신의 AI를 두세요.
@@ -157,4 +156,4 @@ ChatGPT, Codex 및 OpenAI는 OpenAI의 상표입니다.
 MIT License.
 
 자세한 내용은 [LICENSE](LICENSE)를 확인하세요.
->>>>>>> 98f59ac (Add Korean README)
+

@@ -52,7 +52,7 @@ The Browser plugin is supplied separately by OpenAI and is not included here. Br
 After this repository is published as `YOUR_GITHUB_USER/codex-sidecar`:
 
 ```powershell
-codex plugin marketplace add YOUR_GITHUB_USER/codex-sidecar
+codex plugin marketplace add SANTAMAGO/Codex-Sidecar
 codex plugin add codex-sidecar@codex-sidecar
 ```
 

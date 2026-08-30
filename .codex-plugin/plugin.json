@@ -1,0 +1,20 @@
+{
+  "name": "codex-sidecar",
+  "version": "0.1.0",
+  "description": "Open ChatGPT in Codex's existing in-app Browser and leave the tab open for the user.",
+  "author": {
+    "name": "Codex Sidecar contributors"
+  },
+  "license": "MIT",
+  "keywords": ["browser", "chatgpt", "codex", "sidecar"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Codex Sidecar",
+    "shortDescription": "Keep your AI next to Codex",
+    "longDescription": "Opens or reuses a ChatGPT tab in Codex's existing in-app Browser and leaves it visible for the user.",
+    "developerName": "Codex Sidecar contributors",
+    "category": "Productivity",
+    "capabilities": ["Interactive"],
+    "defaultPrompt": ["Open ChatGPT next to Codex."]
+  }
+}

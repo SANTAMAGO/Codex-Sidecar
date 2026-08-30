@@ -1,0 +1,20 @@
+{
+  "name": "codex-sidecar",
+  "interface": {
+    "displayName": "Codex Sidecar"
+  },
+  "plugins": [
+    {
+      "name": "codex-sidecar",
+      "source": {
+        "source": "local",
+        "path": "."
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

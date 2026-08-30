@@ -1,5 +1,7 @@
 # Codex Sidecar
 
+[English](README.md) | [한국어](README.ko.md)
+
 Keep your AI next to Codex.
 
 No MCP. No tunnel. No connector. No API key.
